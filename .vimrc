@@ -384,6 +384,10 @@ Bundle 'gmarik/vundle'
 "
 " original repos on github
 Bundle 'tpope/vim-fugitive'
+Bundle 'tpope/fireplace'
+Bundle 'guns/vim-clojure-static'
+Bundle 'vim-scripts/VimClojure'
+Bundle 'guns/vim-clojure-highlight'
 Bundle 'rstacruz/sparkup', {'rtp': 'vim/'}
 Bundle 'Yggdroot/indentLine'
 let g:indentLine_char = '┊'
